@@ -6,6 +6,7 @@ public class SignUpTest {
 	@Test
 	public void singup() {
 		System.out.println("sign up as user");
+		System.out.println("sign up as admin");
 	}
 
 }
