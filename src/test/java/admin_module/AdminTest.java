@@ -14,6 +14,7 @@ public class AdminTest {
 @Test(groups="smoke")
 	public void adminDelete() {
 		System.out.println("TestScript Skipped");
+		System.out.println("TestScript Skipped");
 	}
 	
 	
